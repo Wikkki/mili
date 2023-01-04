@@ -1,6 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-        intprice = 2000;
+        int price = 2000;
         int oneMile = 20;
 
 
